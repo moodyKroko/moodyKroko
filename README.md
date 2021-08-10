@@ -15,6 +15,7 @@
 [<img align="left" alt="CSS" width="26px" src="" />]   
 [<img align="left" alt="Vim" width="26px" src="" />]   
 [<img align="left" alt="terminal" width="26px" src="" />]   
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/moodyKroko/private_resources/main/images/vscode.png?token=AOEXVZJYP3C2JSGAWHWKXQ3BCL6NS" />]   
 
 <br/>
 <br/>

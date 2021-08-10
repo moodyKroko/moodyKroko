@@ -1,4 +1,4 @@
-### I'm Russel [moodyKroko][website]!
+### Hi, I'm Russel [moodyKroko][website]!
 
 ## I'm currently a CompSci student aiming to become a Developer!!
 

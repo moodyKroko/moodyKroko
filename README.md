@@ -28,4 +28,4 @@
 
 [website]:  https://lucky3forme.com
 [twitter]:  #
-[linkedin]: #
+[linkedin]: https://www.linkedin.com/in/russel-r-9268b4190

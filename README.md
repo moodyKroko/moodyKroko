@@ -5,7 +5,7 @@
 - 🔭 Currently learning Java, Spring Boot and Databases.
 - 🌱 I also wish to learn Python and get into AI.
 - 👯 Hoping to create more projects and also collaborate with other people.
-- 🥅 Goal is to get good at Java and its framework first.
+- 🥅 Be competent enough in Java to get junior level jobs.
 - ⚡ Fun fact: Okae
 
 ### Links:

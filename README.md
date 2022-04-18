@@ -2,10 +2,10 @@
 
 ## I'm a CompSci student aiming to become a Developer!!
 
-- 🔭 Currently learning Java, Spring Boot and Databases.
-- 🌱 I also wish to learn Python and get into AI.
+- 🔭 Main focus on Java, Spring boot for backend and React for frontend.
+- 🌱 Learning Typescript & dabbling into GraphQL.
 - 👯 Hoping to create more projects and also collaborate with other people.
-- 🥅 Be competent enough in Java to get junior level jobs.
+- 🥅 Trying to learn more about developing mobile apps.
 - ⚡ Fun fact: Okae
 
 ### Links:

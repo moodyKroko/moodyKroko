@@ -1,11 +1,11 @@
 ### 👋 Hi, I'm Russel - aka [moodyKroko][website]! 👋
 
-## I'm a CompSci student aiming to become a Developer!!
+## Currently a CompSci student!!
 
 - 🔭 Main focus on Java, Spring boot for backend and React for frontend.
-- 🌱 Learning Typescript & dabbling into GraphQL.
+- 🌱 Learning Typescript & intrested in AI.
 - 👯 Hoping to create more projects and also collaborate with other people.
-- 🥅 Trying to learn more about developing mobile apps.
+- 🥅 Trying to learn more about AI.
 - ⚡ Fun fact: Okae
 
 ### Links:

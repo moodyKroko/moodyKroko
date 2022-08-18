@@ -8,8 +8,7 @@
 - 🥅 Trying to learn more about AI.
 - ⚡ Fun fact: Okae
 
-### Links:
-[twitter]   
+### Links:  
 [linkedin]   
 
 <br/>

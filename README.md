@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Russel - aka [moodyKroko][website](not yet implemented)! 👋
+### 👋 Hi, I'm moodyKroko! 👋
 
 ## Currently a CompSci student!!
 

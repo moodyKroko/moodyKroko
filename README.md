@@ -12,6 +12,8 @@
   <path d="M576 136c..." fill="blue" />
 </svg>
 
+<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Configuration
+
 <br/>
 <br/>
 

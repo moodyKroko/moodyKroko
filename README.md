@@ -6,8 +6,9 @@
 - 🥅 Interested in AI and looking forward to its various implementations.
 
 ### Links:  
-<img align="left" alt="Linkedin" width="50" height="50" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" >
+[<img align="left" alt="Linkedin" width="50" height="50" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" >](https://www.linkedin.com/in/russel-r-9268b4190)
 
+<br/>
 <br/>
 
 ### Languages and Tools:

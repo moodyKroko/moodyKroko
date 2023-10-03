@@ -6,7 +6,8 @@
 - 🥅 Interested in AI and looking forward to its various implementations.
 
 ### Links:  
-[linkedin]   
+[linkedin]
+![fa-linkedin]([linkedin]) 
 
 <br/>
 

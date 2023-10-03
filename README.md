@@ -6,8 +6,7 @@
 - 🥅 Interested in AI and looking forward to its various implementations.
 
 ### Links:  
-[linkedin]
-![fa-linkedin]([linkedin]) 
+![fa-linkedin](https://www.linkedin.com/in/russel-r-9268b4190) 
 
 <br/>
 

@@ -8,12 +8,6 @@
 ### Links:  
 [<img align="left" alt="Linkedin" width="50" height="50" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg">](https://www.linkedin.com/in/russel-r-9268b4190)
 
-<svg xmlns="[http://www.w3.org/2000/svg](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg)" viewBox="0 0 50 50">
-  <path d="M576 136c..." fill="blue" />
-</svg>
-
-<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Configuration
-
 <br/>
 <br/>
 

@@ -1,4 +1,4 @@
-### 👋 Hi, I'm moodyKroko! 👋
+### 👋 Hi, I'm Russel! 👋
 
 ## CompSci graduate!!
 

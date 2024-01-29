@@ -1,7 +1,5 @@
 ### 👋 Hi, I'm Russel! 👋
 
-## CompSci graduate!!
-
 - 🌱 Learning continues!!!
 - 🥅 Interested in AI and looking forward to its various implementations.
 

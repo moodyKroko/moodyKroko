@@ -1,7 +1,7 @@
-### 👋 Hi, I'm Russel! 👋
+### 👋 Welcome! I'm Russel Rai, software dev, linux enthusiast, tech enthusiast & coding tutor👋
 
 - 🌱 Learning continues!!!
-- 🥅 Interested in AI and looking forward to its various implementations.
+- 🥅 Tinkering with AI and looking forward to its various implementations.
 
 ### Links:  
 [<img align="left" alt="Linkedin" width="50" height="50" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg">](https://www.linkedin.com/in/russel-r-9268b4190)
@@ -30,3 +30,4 @@
 [website]:  #
 [twitter]:  #
 [linkedin]: https://www.linkedin.com/in/russel-r-9268b4190
+
